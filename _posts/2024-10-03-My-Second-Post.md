@@ -2,8 +2,6 @@
 title: "My Second Post"
 date: 2024-10-03
 ---
-# My Journey with .NET and Blazor
-
 ## Introduction
 Welcome to my blog! Today, I want to share my experiences with .NET and Blazor, two powerful technologies that have significantly impacted my web development journey.
 
