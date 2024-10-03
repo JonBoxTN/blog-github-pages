@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 ## About Me
-Hi! I'm [Jon], a passionate developer and tech enthusiast. I love sharing my thoughts on .NET, C#, TypeScript, Blazor, Azure, PaaS, and web development.
+Hi! I'm Jon, a passionate developer and tech enthusiast. I like sharing my thoughts on .NET, C#, TypeScript, Blazor, Azure, PaaS, and web development. But, I like building the best.
 
 
 ## Contact
